@@ -3,6 +3,8 @@
 This is a simple web application that allows users to search for the meanings of English words. 
 It utilizes the Dictionary API to fetch word definitions and other related information.
 
+## used technologies : CSS, HTML, JavaScript
+
 ## Features:
 - Search for word meanings
 - View part of speech, definitions, examples, and antonyms
